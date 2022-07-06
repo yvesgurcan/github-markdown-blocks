@@ -1,1 +1,1 @@
-> **Note** / It's YOLO time!
+> **Note** It's YOLO time!
